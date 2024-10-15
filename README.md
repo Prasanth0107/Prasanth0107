@@ -6,7 +6,7 @@ Skills: -> HardSkills*: Linux / Git and GitHub / Docker / Ansible / Terraform / 
 
 🔭 I’m working on DevOps and AWS Projects.
 
-🌱 I’m currently learning Java.
+🌱 I’m currently learning In depth of Cloud and DevOps Techniques.
 
 👯 I’m looking to collaborate on DevOps related Projects.
 
