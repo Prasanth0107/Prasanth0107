@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Prasanth0107 Looking for DevOps/Cloud technology related roles with having 4 Yrs of experince in DevOps just took a break for my Education upgrade in meantime working as a Freelancer.
+- 👋 Hi, I’m @Prasanth0107 Looking for DevOps/Cloud technology related roles with having 4 Yrs of experince in DevOps and Cloud Engineer roles.
 
 DevOps Enthusiast || OpenSource Contributor || LearningInPublic || BuildingInPublic || 
 
-Skills: -> HardSkills*: Linux / Git and GitHub / Docker / Ansible / Terraform / Jenkins / GitHub Actions / Kubernetes / AWS / Java / YAML && SoftSkills: TeamPlayer / Communication / Leadership / Adaptability.
+Skills: -> HardSkills*: Linux / Git and GitHub / Docker / Terraform / Jenkins / GitHub Actions / Kubernetes / AWS / Java / YAML && SoftSkills: TeamPlayer / Communication / Leadership / Adaptability.
 
 🔭 I’m working on DevOps and AWS Projects.
 
